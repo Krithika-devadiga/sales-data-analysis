@@ -8,7 +8,6 @@ This project analyzes sales data using pandas, seaborn, and matplotlib.
 - Data cleaning (null handling, dropped columns)
 
 ## 📁 Project Structure:
-
 - `notebooks/` – Jupyter notebook with full analysis and forecasting
 - `data/` – Original raw sales dataset
 - `sales_forecast_final.csv` – Combined actual + forecasted sales
