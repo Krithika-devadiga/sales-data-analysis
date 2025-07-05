@@ -1,6 +1,6 @@
 # 🛒 Sales Data Analysis Project
 
-This project analyzes sales data using pandas, seaborn, and matplotlib.
+This project analyzes sales data using pandas, seaborn, and matplotlib. It includes data cleaning, trend analysis, and basic sales forecasting using linear regression.
 
 ## 🔍 Key Insights:
 - Total sales by product line
