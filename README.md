@@ -10,8 +10,9 @@ This project analyzes sales data using pandas, seaborn, and matplotlib.
 ## 📁 Project Structure:
 - `notebooks/` – Jupyter notebook with full analysis and forecasting
 - `data/` – Original raw sales dataset
-- `sales_forecast_final.csv` – Combined actual + forecasted sales
-- `monthly_sales_predictions.csv` – Monthly trend with predicted values
+- `outputs/` – Final cleaned and forecasted CSVs
+ - `sales_forecast_final.csv` – Combined actual + forecasted sales
+ - `monthly_sales_predictions.csv` – Monthly trend with predicted values
 - `requirements.txt` – Python libraries used
 - `README.md` – Project documentation
 
