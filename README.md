@@ -3,9 +3,14 @@
 This project analyzes sales data using pandas, seaborn, and matplotlib. It includes data cleaning, trend analysis, and basic sales forecasting using linear regression.
 
 ## 🔍 Key Insights:
-- Total sales by product line
-- Monthly sales trends
-- Data cleaning (null handling, dropped columns)
+- ✅ Total sales by product line
+- ✅ Monthly sales trends and seasonality
+- ✅ Cleaned null values and dropped unused columns
+- ✅ Forecasted sales using linear regression 
+- ✅ Visualized actual vs predicted sales trends
+
+---
+
 
 ## 📁 Project Structure:
 - `notebooks/` – Jupyter notebook with full analysis and forecasting
@@ -17,6 +22,35 @@ This project analyzes sales data using pandas, seaborn, and matplotlib. It inclu
 - `README.md` – Project documentation
 
 
-## 📊 Tools Used:
-- Python (pandas, matplotlib, seaborn)
+## 📊 Tools & Libraries Used
+
+- Python 3.x
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn (for linear regression model)
 - Jupyter Notebook
+
+---
+
+## 🚀 How to Run the Project
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/sales-data-analysis.git
+   cd sales-data-analysis
+
+2. Install required packages:
+    pip install -r requirements.txt
+
+3. Launch the Jupyter Notebook:
+    jupyter notebook notebooks/sales_analysis.ipynb
+
+
+📈 Forecast Output Example:
+rust
+Copy code
+Predicted Sales for June 2025: ₹495,015.31
+Predicted Sales for July 2025: ₹511,649.74
+Predicted Sales for August 2025: ₹528,284.17
+
